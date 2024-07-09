@@ -2,7 +2,7 @@
 
 This project is a simple Windows Forms application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
-![Temperature Converter UI](placeholder-for-ui-image.png)
+![Temperature Converter UI](image.png)
 
 ## Features
 
